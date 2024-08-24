@@ -1,0 +1,88 @@
+Uri: https://ds-plus.ru/
+File Name: C:\Downloaded Web Sites\ds-plus.ru\index.htm
+Content Type: text/html
+
+Uri: https://ds-plus.ru/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\ds-plus.ru\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://ds-plus.ru/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\ds-plus.ru\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://ds-plus.ru/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\ds-plus.ru\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://ds-plus.ru/script.js
+File Name: C:\Downloaded Web Sites\ds-plus.ru\script.js
+Content Type: application/javascript
+
+Uri: https://ds-plus.ru/site.webmanifest
+File Name: C:\Downloaded Web Sites\ds-plus.ru\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://ds-plus.ru/spinner/785.gif
+File Name: C:\Downloaded Web Sites\ds-plus.ru\spinner\785.gif
+Content Type: image/gif
+
+Uri: https://ds-plus.ru/spinner/spinner.css
+File Name: C:\Downloaded Web Sites\ds-plus.ru\spinner\spinner.css
+Content Type: text/css
+
+Uri: https://ds-plus.ru/static/css/main.19fb9d41.css
+File Name: C:\Downloaded Web Sites\ds-plus.ru\static\css\main.19fb9d41.css
+Content Type: text/css
+
+Uri: https://ds-plus.ru/static/js/main.49ff4e5f.js
+File Name: C:\Downloaded Web Sites\ds-plus.ru\static\js\main.49ff4e5f.js
+Content Type: application/javascript
+
+Uri: https://ds-plus.ru/static/media/3D_elements.9f50e92efd908632c39c.png
+File Name: C:\Downloaded Web Sites\ds-plus.ru\static\media\3D_elements.9f50e92efd908632c39c.png
+Content Type: image/png
+
+Uri: https://ds-plus.ru/static/media/classic.7a77ba5d61fa58d3b505.png
+File Name: C:\Downloaded Web Sites\ds-plus.ru\static\media\classic.7a77ba5d61fa58d3b505.png
+Content Type: image/png
+
+Uri: https://ds-plus.ru/static/media/done.899e6886624335c95741.svg
+File Name: C:\Downloaded Web Sites\ds-plus.ru\static\media\done.899e6886624335c95741.svg
+Content Type: image/svg+xml
+
+Uri: https://ds-plus.ru/static/media/full.1ba5a76b9fac6cce5ed4.png
+File Name: C:\Downloaded Web Sites\ds-plus.ru\static\media\full.1ba5a76b9fac6cce5ed4.png
+Content Type: image/png
+
+Uri: https://ds-plus.ru/static/media/patern.57702a71694d1677735a.jpg
+File Name: C:\Downloaded Web Sites\ds-plus.ru\static\media\patern.57702a71694d1677735a.jpg
+Content Type: image/jpeg
+
+Uri: https://ds-plus.ru/static/media/Screenshot_3.f565eb2fac55d38dbdc4.png
+File Name: C:\Downloaded Web Sites\ds-plus.ru\static\media\Screenshot_3.f565eb2fac55d38dbdc4.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\ds-plus.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap);body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:
+File Name: C:\Downloaded Web Sites\ds-plus.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Downloaded Web Sites\ds-plus.ru\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Downloaded Web Sites\ds-plus.ru\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Downloaded Web Sites\ds-plus.ru\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Downloaded Web Sites\ds-plus.ru\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
