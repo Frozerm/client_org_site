@@ -826,9 +826,12 @@ body {
 }
 
 .block-list__inner {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between
+    display:flex;
+    justify-content: space-between;
+}
+
+.block-list__inner .block-list__block {
+    margin: 1%;
 }
 
 .block-list__logo {
